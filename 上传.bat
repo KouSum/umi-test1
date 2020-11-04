@@ -1,5 +1,5 @@
 git status
 git add .
-git commit -m 'qrcode'
-git push origin master
+git commit -m 'test'
+git push origin main
 pause
